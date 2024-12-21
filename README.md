@@ -1,17 +1,66 @@
-Description: This project is an online bookstore web application developed as part of a Software Engineering course. Built using PHP for the backend and HTML/CSS for the frontend, the application aims to provide users with a seamless platform to browse, search, and purchase books. The project implements the Incremental Model for development, ensuring that features are delivered and tested incrementally for reliability and functionality.
+# Online Bookstore Web Application  
 
-Key Features: User Functionalities:
+This project is an **Online Bookstore Web Application** designed and developed as part of our Software Engineering course. It provides a seamless platform for users to browse, search, and purchase books online while offering administrative functionalities for managing books, users, and orders.  
 
-Browse books by categories, authors, and price ranges. View detailed descriptions, summaries, and author information. Add books to a shopping cart or wishlist for future purchases. Secure user registration and login system.
+## Technologies Used  
+- **Frontend**: HTML, CSS (responsive design with Bootstrap or Tailwind CSS)  
+- **Backend**: PHP  
+- **Database**: MySQL  
 
-Admin Functionalities:
+## Development Model  
+The project follows the **Incremental Development Model**, allowing gradual implementation of features, starting with the frontend and progressively adding backend functionalities.  
 
-Manage books: add, edit, and delete entries. Oversee orders and update statuses. Generate sales reports and track user activity.
+## Features  
 
-Additional Features:
+### User Features  
+1. **Book Browsing and Searching**:  
+   - Browse books by categories such as genre, author, and price range.  
+   - Advanced search options and filters for precise results.  
+2. **Book Details**:  
+   - View detailed descriptions, author bios, and user reviews for books.  
+3. **Shopping Cart**:  
+   - Add books to the cart, update quantities, and remove items.  
+4. **Checkout Process**:  
+   - Enter address details and select payment methods (Cash on Delivery or simulated online payment).  
+5. **User Account**:  
+   - Sign up, log in, manage profiles, and view order history.  
+6. **Wishlist and Notifications**:  
+   - Save books for future reference and receive alerts for discounts or new arrivals.  
+7. **Book Reviews**:  
+   - Leave reviews and ratings for books.  
 
-User reviews and ratings. Notifications for order updates and promotions.
+### Admin Features  
+1. **Book Management**:  
+   - Add, edit, or delete books with cover images and categories.  
+2. **Order Management**:  
+   - View and update the status of user orders.  
+3. **User Management**:  
+   - Manage user accounts, including blocking or deletion.  
+4. **Reports and Analytics**:  
+   - Monitor sales trends, track revenue, and analyze user activity.  
+5. **Promotions**:  
+   - Create discount codes and highlight featured books.  
 
-Development Highlights: Frontend: Designed with responsive HTML and CSS for an intuitive user experience. Backend: PHP powers dynamic functionalities, integrating with a MySQL database for data management. Design Approach: Prioritized a clean and user-friendly interface, with robust backend integration for smooth operations.
+## Development Plan  
+The project is implemented in the following phases:  
+1. **UI/UX Design**: Designing intuitive interfaces for users and admins.  
+2. **Frontend Development**: Building responsive web pages using HTML and CSS.  
+3. **Backend Setup**: Configuring MySQL database and implementing PHP scripts for dynamic content.  
+4. **Incremental Feature Integration**: Gradual addition of features, starting with core functionalities.  
+5. **Testing**: Ensuring all features work as expected on various devices.  
+6. **Deployment**: Hosting the application locally or on a cloud platform.  
 
-Development Process: The application was developed incrementally, with features tested after each phase to ensure functionality and minimize risks. Goals: To deliver a reliable and engaging platform for book lovers and administrators, focusing on functionality, scalability, and ease of use.
+## How to Run  
+1. Clone the repository to your local machine.  
+2. Set up a local server (e.g., XAMPP or WAMP).  
+3. Import the database schema from the `/database` folder into MySQL.  
+4. Configure the database connection in the PHP files.  
+5. Run the application on your local server to explore the features.  
+
+## Contributors  
+- **Muhammad Ibrahim**  
+- **Wajhi Urr Rehman**  
+- **M Abdullah Bin Abdul Aziz**  
+
+## License  
+This project is for educational purposes only and is not licensed for commercial use.  
