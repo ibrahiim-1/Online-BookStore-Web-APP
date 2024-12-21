@@ -3,8 +3,8 @@
 This project is an **Online Bookstore Web Application** designed and developed as part of our Software Engineering course. It provides a seamless platform for users to browse, search, and purchase books online while offering administrative functionalities for managing books, users, and orders.  
 
 ## Technologies Used  
-- **Frontend**: HTML, CSS (responsive design with Bootstrap or Tailwind CSS)  
-- **Backend**: PHP  
+- **Frontend**: PHP, JavaScript
+- **Backend**: PHP, JavaScript  
 - **Database**: MySQL  
 
 ## Development Model  
