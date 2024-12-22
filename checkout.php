@@ -99,52 +99,52 @@ if(isset($_POST['order_btn'])){
 <section class="checkout">
 
    <form action="" method="post">
-      <h3>place your order</h3>
+      <h3>Place Your Order</h3>
       <div class="flex">
          <div class="inputBox">
-            <span>your name :</span>
+            <span>Your Name :</span>
             <input type="text" name="name" required placeholder="enter your name">
          </div>
          <div class="inputBox">
-            <span>your number :</span>
+            <span>Your Number :</span>
             <input type="number" name="number" required placeholder="enter your number">
          </div>
          <div class="inputBox">
-            <span>your email :</span>
+            <span>Your Email :</span>
             <input type="email" name="email" required placeholder="enter your email">
          </div>
          <div class="inputBox">
-            <span>payment method :</span>
+            <span>Payment Method :</span>
             <select name="method">
-               <option value="cash on delivery">cash on delivery</option>
-               <option value="credit card">credit card</option>
-               <option value="paypal">paypal</option>
-               <option value="paytm">paytm</option>
+               <option value="cash on delivery">Cash on Delivery</option>
+               <option value="credit card">Credit Card</option>
+               <option value="Easypaisa">Easypaisa</option>
+
             </select>
          </div>
          <div class="inputBox">
-            <span>address line 01 :</span>
+            <span>Appartment/Suite Number :</span>
             <input type="number" min="0" name="flat" required placeholder="e.g. flat no.">
          </div>
          <div class="inputBox">
-            <span>address line 01 :</span>
-            <input type="text" name="street" required placeholder="e.g. street name">
+            <span>Address :</span>
+            <input type="text" name="street" required placeholder="e.g.Complete Address">
          </div>
          <div class="inputBox">
-            <span>city :</span>
-            <input type="text" name="city" required placeholder="e.g. mumbai">
+            <span>City :</span>
+            <input type="text" name="city" required placeholder="e.g. Islamabad">
          </div>
          <div class="inputBox">
-            <span>state :</span>
-            <input type="text" name="state" required placeholder="e.g. maharashtra">
+            <span>State :</span>
+            <input type="text" name="state" required placeholder="e.g. Punjab">
          </div>
          <div class="inputBox">
-            <span>country :</span>
-            <input type="text" name="country" required placeholder="e.g. india">
+            <span>Country :</span>
+            <input type="text" name="country" required placeholder="e.g. Pakistan">
          </div>
          <div class="inputBox">
-            <span>pin code :</span>
-            <input type="number" min="0" name="pin_code" required placeholder="e.g. 123456">
+            <span>ZIP Code:</span>
+            <input type="number" min="0" name="pin_code" required placeholder="e.g. 44000 for Islamabad">
          </div>
       </div>
       <input type="submit" value="order now" class="btn" name="order_btn">

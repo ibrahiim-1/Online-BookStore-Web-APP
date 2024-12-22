@@ -53,7 +53,7 @@ if(isset($_POST['add_to_cart'])){
 
    <div class="content">
       <h3>Hand Picked Book to your door.</h3>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, quod? Reiciendis ut porro iste totam.</p>
+      <p>Discover a curated collection of books delivered right to your doorstep. Explore genres, find your favorites, and enjoy the stories that inspire, educate, and entertain.</p>
       <a href="about.php" class="white-btn">discover more</a>
    </div>
 
@@ -104,7 +104,7 @@ if(isset($_POST['add_to_cart'])){
 
       <div class="content">
          <h3>about us</h3>
-         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit quos enim minima ipsa dicta officia corporis ratione saepe sed adipisci?</p>
+         <p>Book-Worms is your one-stop online bookstore, delivers your favorite books to your doorstep, making reading easy and accessible for everyone!</p>
          <a href="about.php" class="btn">read more</a>
       </div>
 
@@ -115,8 +115,8 @@ if(isset($_POST['add_to_cart'])){
 <section class="home-contact">
 
    <div class="content">
-      <h3>have any questions?</h3>
-      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Atque cumque exercitationem repellendus, amet ullam voluptatibus?</p>
+      <h3>Have any questions?</h3>
+      <p>Have any questions or need assistance? We're here to help! Feel free to reach out to us anytime.</p>
       <a href="contact.php" class="white-btn">contact us</a>
    </div>
 

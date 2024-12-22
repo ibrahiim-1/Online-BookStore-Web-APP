@@ -28,10 +28,10 @@
 
       <div class="box">
          <h3>follow us</h3>
-         <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
-         <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
+         <a href="https://www.facebook.com/share/1Atq6iuRB9/?mibextid=wwXIfr"> <i class="fab fa-facebook-f"></i> facebook </a>
+         <a href="https://www.twitter.com"> <i class="fab fa-twitter"></i> twitter </a>
          <a href="https://www.instagram.com/og.ibraahim/"> <i class="fab fa-instagram"></i> instagram </a>
-         <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
+         <a href="https://www.linkedin.com/in/muhammadibraahim"> <i class="fab fa-linkedin"></i> linkedin </a>
       </div>
 
    </div>
